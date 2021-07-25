@@ -1,1 +1,3 @@
 # Electronique-Boitier-Focus
+Boitier pour loger les cartes électroniques dédiées à SolEx Focus, les 2 cartes de pilotage des moteurs pas à pas + l'Arduino nano.
+Les passes fil sont adaptés au cables Dupont au pas de 2.54mm, ajustement très serré... mais cela rentre avec du doigté...
